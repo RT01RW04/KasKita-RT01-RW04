@@ -1,0 +1,21 @@
+{
+  "name": "KasKita — Pembukuan Kas RT",
+  "short_name": "KasKita",
+  "description": "Pembukuan kas RT multi-pengurus: iuran, pemasukan, pengeluaran, kartu iuran QR, pemindai kamera, laporan JPG, pengingat WhatsApp, dan cadangan Google Drive. Dikembangkan oleh BolangCorp.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "lang": "id",
+  "dir": "ltr",
+  "background_color": "#f4f6f5",
+  "theme_color": "#087764",
+  "categories": ["finance", "productivity", "utilities"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
